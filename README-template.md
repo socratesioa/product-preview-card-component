@@ -14,9 +14,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -56,7 +53,7 @@ I want to continue learning about best practices for responsiveness especially.
 
 ### Useful resources
 
-- [The HTML <picture> Element](https://www.w3schools.com/html/html_images_picture.asp) - This helped me learn about the picture html element. It's very easy to understand but extremely powerful in my opinion.
+- [The HTML Picture Element](https://www.w3schools.com/html/html_images_picture.asp) - This helped me learn about the picture html element. It's very easy to understand but extremely powerful in my opinion.
 
 ## Author
 
